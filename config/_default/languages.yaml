@@ -5,6 +5,22 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  params:
+    social:
+      email: >-
+        climbingdistrict@sebastiengaya.fr
+      mastodon: >-
+        @climbingdistrict.mastodon.social
+      x: >-
+        @ClimbingDistrict
+      github: >-
+        ClimbingDistrict
+      linkedin: >-
+        climbing-district
+      youtube: >-
+        ClimbingDistrict
+      instagram: >-
+        climbingdistrict
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -21,6 +37,22 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      email: >-
+        climbingdistrict@sebastiengaya.fr
+      mastodon: >-
+        @climbingdistrict.mastodon.social
+      x: >-
+        @ClimbingDistrict
+      github: >-
+        ClimbingDistrict
+      linkedin: >-
+        climbing-district
+      youtube: >-
+        ClimbingDistrict
+      instagram: >-
+        climbingdistrict
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
