@@ -1,7 +1,8 @@
 title: >
   Climbing District
-default_image:
-  id: d83e877a-3a18-4085-b99b-5d89ee3f6aa9
+default:
+  image:
+    id: d83e877a-3a18-4085-b99b-5d89ee3f6aa9
 social:
   email: >-
     climbingdistrict@sebastiengaya.fr
