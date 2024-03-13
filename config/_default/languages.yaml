@@ -32,6 +32,7 @@ es:
     diploma: diplomas
     events_category: events_categories
     posts_category: posts_categories
+    projects_category: projects_categories
     researcher: researchers
     teacher: teachers
     volume: volumes
@@ -67,6 +68,7 @@ en:
     diploma: diplomas
     events_category: events_categories
     posts_category: posts_categories
+    projects_category: projects_categories
     researcher: researchers
     teacher: teachers
     volume: volumes
@@ -102,6 +104,7 @@ fr:
     diploma: diplomas
     events_category: events_categories
     posts_category: posts_categories
+    projects_category: projects_categories
     researcher: researchers
     teacher: teachers
     volume: volumes
