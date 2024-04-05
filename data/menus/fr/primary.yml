@@ -17,16 +17,4 @@ items:
   target: "/fr/organisations/"
   kind: page
   children: []
-- title: Page supplémentaire
-  target: "/fr/page-supplementaire/"
-  kind: page
-  children:
-  - title: Page enfant supplémentaire
-    target: "/fr/page-supplementaire/page-enfant-supplementaire/"
-    kind: page
-    children: []
-  - title: Autre page enfant supplémentaire
-    target: "/fr/page-supplementaire/autre-page-enfant-supplementaire/"
-    kind: page
-    children: []
 
