@@ -26,7 +26,7 @@ es:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -66,7 +66,7 @@ en:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -106,7 +106,7 @@ fr:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
